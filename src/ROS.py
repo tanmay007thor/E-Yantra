@@ -1,7 +1,7 @@
 '''
 # Team ID:          eYRC#HB#2281
 # Theme:            Hologlyph Bots (HB)
-# Author List:      Tanmay Rathod , Rushal Choksi , Hirva Patel , Dhanvi 
+# Author List:      Tanmay Rathod , Rushal Choksi , Hirva Patel , Savsani Dhanvi 
 # Filename:         ROS.py
 # Functions:        Hologlyph Bots
 # Global variables: None
